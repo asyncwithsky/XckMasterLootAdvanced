@@ -95,7 +95,7 @@ if ( GetLocale() == "frFR" ) then
 	XCKMLA_WARNINGBank = "A player has Need this Item, Continue for bank ";
 	XCKMLA_WARNINGPRINT = "|cFF7F0000**WARNING**There are a player(s) on this Item**WARNING**";
 	XCKMLA_BankAnnounceP1 = " has been taken by ";
-	XCKMLA_BankAnnounceP2 = " to offer has the guild a Better Future..";
+	XCKMLA_BankAnnounceP2 = " to offer the guild a better future..";
 	XCKMLA_CHighestRoll = "|cff20b2aa->|rCurrent Highest roll is: ";
 	XCKMLA_SettingsMSGForSave = "|cffead454Click again for Save Settings.";
 	XCKMLA_SettingsMSGForApply = "|cffead454Close & Open LootFrame for Apply Settings.";

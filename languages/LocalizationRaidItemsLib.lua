@@ -56,17 +56,18 @@ if ( GetLocale() == "frFR" ) then
 	
 	else
 	--ZG & AQ Items
-	Raids_Items = {"Alabaster Idol",
+	Raids_Items = {
+		"Alabaster Idol",
 		"Amber Idol",
 		"Azure Idol",
 		"Idol of Death",
-		"Idole of Life",
-		"Idole of Night",
-		"Idole of Rebirth",
-		"Idole of Strife",
-		"Idole of War",
-		"Idole of the Sage",
-		"Idole of the Sun",
+		"Idol of Life",
+		"Idol of Night",
+		"Idol of Rebirth",
+		"Idol of Strife",
+		"Idol of War",
+		"Idol of the Sage",
+		"Idol of the Sun",
 		"Jasper Idol",
 		"Lambent Idol",
 		"Obsidian Idol",
@@ -107,6 +108,14 @@ if ( GetLocale() == "frFR" ) then
 		"Wartorn Leather Scrap",
 		"Wartorn Chain Scrap",
 		"Wartorn Plate Scrap",
-	"Hourglass Sand",
-	"Word of Thawing"}
+		"Hourglass Sand",
+		"Word of Thawing",
+		"Dreamscale",
+		"Small Dream Shard",
+		"Fading Dream Fragment",
+		"Essence of Fire",
+		"Essence of Air",
+		"Essence of Earth",
+		"Blood of the Mountain",
+	}
 end		
